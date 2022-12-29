@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Uvindu Sarath</h1>
+<h1 align="center">Hi 👋, I'm Uvindu Saranath</h1>
 <h3 align="center">ISTQB & AWS certified Software Test Automation Engineer with 4+ years of experience in testing SOA middleware, web services, APIs, and Enterprise integration in Agile-Scrum environments.</h3>
 
 <p align="left"> <a href="https://twitter.com/uvindu_saranath" target="blank"><img src="https://img.shields.io/twitter/follow/uvindu_saranath?logo=twitter&style=for-the-badge" alt="uvindu_saranath" /></a> </p>
